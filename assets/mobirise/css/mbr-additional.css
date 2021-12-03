@@ -140,8 +140,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #070345 !important;
+  border-color: #070345 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -459,7 +459,7 @@ body {
   color: #7f1933 !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #ffffff !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -557,7 +557,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #7f1933;
+  color: #194497;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -2294,7 +2294,7 @@ body {
 .cid-qObD7LvM90 {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #2e2e2e;
+  background-color: #0822a3;
 }
 @media (max-width: 767px) {
   .cid-qObD7LvM90 .content {
@@ -4652,7 +4652,7 @@ body {
   }
 }
 .cid-qNXh4GHCbK .section-text B {
-  color: #7f1933;
+  color: #194497;
 }
 .cid-qNXgNMikO4 {
   padding-top: 0px;
@@ -5282,7 +5282,7 @@ body {
   }
 }
 .cid-qO4QE7sWvf .section-text B {
-  color: #7f1933;
+  color: #194497;
 }
 .cid-qO4M8fUeUP {
   background: #ffffff;
@@ -5332,7 +5332,7 @@ body {
   }
 }
 .cid-qO4Qyz31KP .section-text B {
-  color: #7f1933;
+  color: #194497;
 }
 .cid-qO4N3ww7RU {
   padding-top: 0px;
@@ -5437,7 +5437,7 @@ body {
   }
 }
 .cid-qO4QvYfo2j .section-text B {
-  color: #7f1933;
+  color: #194497;
 }
 .cid-qO4N4I0RE1 {
   padding-top: 0px;
