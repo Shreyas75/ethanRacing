@@ -557,7 +557,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #194497;
+  color: #052b68;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -2294,7 +2294,7 @@ body {
 .cid-qObD7LvM90 {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #0822a3;
+  background-color: #0822a3; /*#005bc2*/
 }
 @media (max-width: 767px) {
   .cid-qObD7LvM90 .content {
@@ -5282,7 +5282,7 @@ body {
   }
 }
 .cid-qO4QE7sWvf .section-text B {
-  color: #194497;
+  color: #052b68;
 }
 .cid-qO4M8fUeUP {
   background: #ffffff;
@@ -5332,7 +5332,7 @@ body {
   }
 }
 .cid-qO4Qyz31KP .section-text B {
-  color: #194497;
+  color: #052b68;
 }
 .cid-qO4N3ww7RU {
   padding-top: 0px;
@@ -5437,7 +5437,7 @@ body {
   }
 }
 .cid-qO4QvYfo2j .section-text B {
-  color: #194497;
+  color: #052b68;
 }
 .cid-qO4N4I0RE1 {
   padding-top: 0px;
@@ -6186,7 +6186,7 @@ body {
 }
 .cid-qObrkIKsAM .mbr-author-name {
   font-weight: bold;
-  color: #194497;
+  color: #052b68;
 }
 .cid-qObrkIKsAM .mbr-author-desc {
   color: #232;
